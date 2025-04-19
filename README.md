@@ -23,8 +23,8 @@ This project implements an email classification system for a company's support t
 
 1. Clone this repository:
 ```
-git clone https://github.com/ArjunKanthimath/Email_Classifier.git
-cd Email_Classifier
+!git clone https://github.com/ArjunKanthimath/Email_Classifier.git
+%cd Email_Classifier
 ```
 
 2. Install the required packages:
