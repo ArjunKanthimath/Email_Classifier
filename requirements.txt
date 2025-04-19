@@ -1,0 +1,26 @@
+# Core ML/DL dependencies
+torch==2.0.1
+transformers==4.33.2
+datasets==2.14.5
+
+# Numeric/scientific computing (pinned for Python 3.9)
+numpy==1.25.2
+scikit-learn==1.2.2  # Downgraded for Python 3.9 compatibility
+pandas==1.5.3  # Last version supporting Python 3.9
+
+# NLP specific
+spacy>=3.0.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+
+# FastAPI stack
+fastapi==0.103.1
+uvicorn==0.23.2
+python-multipart==0.0.6
+jinja2==3.1.2
+
+# Pydantic
+pydantic==2.4.2
+
+# Additional utilities
+tqdm==4.66.1
+requests==2.31.0
