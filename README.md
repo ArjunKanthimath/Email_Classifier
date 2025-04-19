@@ -29,12 +29,12 @@ This project implements an email classification system for a company's support t
 
 2. Install the required packages:
 ```
-pip install -r requirements.txt
+!pip install -r requirements.txt
 ```
 
 3. Download the SpaCy English model:
 ```
-python -m spacy download en_core_web_sm
+!python -m spacy download en_core_web_sm
 ```
 
 ### Training the Model
