@@ -1,6 +1,6 @@
 # Email Classification System
 
-This project implements an email classification system for a company's support team. The system categorizes incoming support emails into predefined categories while ensuring that personal information (PII) is masked before processing.
+This project implements an email classification system for a company's support team. The system categorizes incoming support emails into predefined categories while ensuring that personal information (PII) is masked before processing. The trained BERT Model has an accuracy of 78.77%.
 
 ## Features
 
